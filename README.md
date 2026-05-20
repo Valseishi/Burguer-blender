@@ -2,6 +2,11 @@
 
 Este es mi primer render 3D de una hamburguesa realizado para practicar modelado, materiales, iluminación y composición dentro de un entorno 3D.
 
+## Preview
+
+
+![Render Hamburguesa](burguer.png)
+
 ## Tecnologías / Software
 
 * Blender
@@ -24,11 +29,6 @@ Este es mi primer render 3D de una hamburguesa realizado para practicar modelado
 * Ajuste de colores y texturas
 * Uso de cámara y composición
 * Configuración de render
-
-## Preview
-
-
-![Render Hamburguesa](burguer.png)
 
 
 ## Objetivo
