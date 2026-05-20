@@ -28,7 +28,7 @@ Este es mi primer render 3D de una hamburguesa realizado para practicar modelado
 ## Preview
 
 ```md id="1ltvrn"
-![Render Hamburguesa](burguer.png)
+![Render Hamburguesa](./burguer.png)
 ```
 
 ## Objetivo
